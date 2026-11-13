@@ -1,5 +1,5 @@
 Question 1: Qu'est-ce qu'un Pod en Kubernetes?
-A. Un conteneur unique
+A. Un conteneur unique X
 B. Un groupe de conteneurs agissant comme une unité logique
 C. Une méthode de gestion des secrets
 
